@@ -1,0 +1,28 @@
+{
+  "name": "full-coursera-dev",
+  "version": "1.0.0",
+  "description": "full stack test",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex4191/FULL-COURSERA-DEV.git"
+  },
+  "author": "Alex4191",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex4191/FULL-COURSERA-DEV/issues"
+  },
+  "homepage": "https://github.com/Alex4191/FULL-COURSERA-DEV#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
